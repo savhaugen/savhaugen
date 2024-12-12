@@ -1,16 +1,49 @@
-## Hi there 👋
+Welcome to My GitHub Profile!
 
-<!--
-**savhaugen/savhaugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+![Alt text](![newheadshot1](https://github.com/user-attachments/assets/7781748f-9a9e-4f10-8011-040bd160d630)
+)
+Hi! I’m Savannah Haugen, a computer sicence student with a passion for using data science and machine learning to solve meaningful problems. With a liberal arts background, I bring a unique perspective to the tech space, blending creativity and analytical skills to develop innovative solutions. 
 
-Here are some ideas to get you started:
+🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: linkedin.com/in/savannahhaugen
+
+Email: savannah.haugen@example.com
+
+🚀 Featured Projects
+
+adhd-drug-demand-prediction
+
+A machine learning project developed as part of my Fall AI Studio, predicting ADHD drug demand for Google.
+
+Overview: Explores patterns in ADHD drug demand using advanced modeling techniques.
+
+Objectives: Provide actionable insights for demand planning.
+
+Key Features:
+
+Data preprocessing pipeline.
+
+Implementation of time series forecasting.
+
+Result visualization.
+
+Next Steps: Extend to regional analysis and incorporate more granular datasets.
+
+Includes sample datasets, installation guide, and detailed project documentation.
+
+
+🌱 Continuous Learning
+
+I am committed to professional growth through:
+
+Contributing to open-source projects.
+
+Expanding my skill set in AI, machine learning, and data analysis.
+
+Engaging with the tech community to exchange ideas and collaborate on impactful projects.
+
+Thank you for visiting my GitHub! Feel free to explore my projects and reach out for collaborations or discussions. Together, let’s build something impactful!
+
+
