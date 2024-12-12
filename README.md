@@ -1,15 +1,14 @@
 Welcome to My GitHub Profile!
 
 👩‍💻 About Me
-![Alt text](![newheadshot1](https://github.com/user-attachments/assets/7781748f-9a9e-4f10-8011-040bd160d630)
-)
+
 Hi! I’m Savannah Haugen, a computer sicence student with a passion for using data science and machine learning to solve meaningful problems. With a liberal arts background, I bring a unique perspective to the tech space, blending creativity and analytical skills to develop innovative solutions. 
 
 🌐 Connect with Me
 
-LinkedIn: linkedin.com/in/savannahhaugen
+LinkedIn: https://www.linkedin.com/in/savannah-haugen-743684256
 
-Email: savannah.haugen@example.com
+Email: shaugen@macalester.edu
 
 🚀 Featured Projects
 
